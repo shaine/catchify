@@ -12,9 +12,6 @@
     "lint": "semistandard",
     "lint-fix": "semistandard --fix"
   },
-  "engines": {
-    "node": ">=8"
-  },
   "dependencies": {},
   "devDependencies": {
     "ava": "^0.22.0",
